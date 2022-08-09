@@ -1,0 +1,127 @@
+.center{
+    text-align:center;
+    margin-top: 15%;
+}
+
+.lnk_line{
+    text-align: right;
+}
+
+.lnk{
+    color:rgb(39, 39, 39);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.search_box{
+    border:1px solid rgb(214, 214, 214);
+    border-radius: 25px;
+    outline:none;
+    background-color: white;
+    background-image: url('searchicon.png');
+    background-size: 4%;
+    background-position: 10px 15px; 
+    background-repeat: no-repeat;
+    padding: 12px 60px 12px 40px;
+    width:300px;
+    height:20px;
+}
+
+.search_box:hover{
+    border:1px solid white;
+    box-shadow:0px 1px 5px 0px rgb(173, 173, 173);
+}
+
+.submit{
+    margin-top:10px;
+
+}
+
+.search_btn{
+    border: 0;
+    border-radius: 5px;
+    background-color:rgb(243, 243, 243);
+    width: auto;
+    height:auto;
+    font-size:15px;
+    padding:10px;
+}
+.search_btn:hover{
+    box-shadow:0px 1px 3px 0px rgb(158, 158, 158);
+}
+
+.img_span{
+    position:absolute;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:18px;
+    margin-top: 70px;
+    margin-left:215px;
+    color:blue;
+}
+
+.logo{
+    text-align:left;
+
+}
+
+.mini_logo{
+    position: absolute;
+    width:70px;
+    height:25px;
+    top:20px;
+    left: 20px;
+}
+
+.titr{
+    position:absolute;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:23px;
+    font-weight:400;
+    color:rgb(231, 21, 21);
+    top: 80px;
+    left: 40px;
+}
+
+.hr_line{
+    margin-top: 100px;
+}
+
+.form{
+    position: absolute;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:19px;
+    left: 40px;
+}
+
+.child_form{
+    position: relative;
+    font-size:14px;
+    margin-top:12%;
+}
+
+.text_box{
+    position: absolute;
+    left: 200px;
+    width: 500px;
+}
+
+
+.search_btn2{
+    color:white;
+    border: 0;
+    border-radius: 3px;
+    background-color:rgb(92, 126, 240);
+    width: 120px;
+    height:30px;
+    font-size:12px;
+    font-weight: bold;
+    padding:10px;
+}
+.search_btn2:hover{
+    border: 1px solid rgb(37, 73, 190);
+}
+
+.submit2{
+    position: absolute;
+    margin-top:20px;
+    margin-left:590px;
+}
